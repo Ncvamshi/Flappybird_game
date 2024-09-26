@@ -12,3 +12,9 @@ Hello guys this is a flappy bird game written in JAVA it's a simple and fun game
 These are all the packages used in the game.
 
 Screenshots:
+![s1](./Screenshots/s2.png)
+</br>
+![s1](./Screenshots/s3.png)
+</br>
+![s1](./Screenshots/s1.png)
+
